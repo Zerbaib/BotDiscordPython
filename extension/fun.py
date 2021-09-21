@@ -1,10 +1,9 @@
-
+# modules
 import asyncio
 import json
 import os
 import random
 import sys
-
 import aiohttp
 import discord
 from discord.ext import commands
@@ -20,18 +19,6 @@ else:
 class Fun(commands.Cog, name="fun"):
     def __init__(self, bot):
         self.bot = bot
-
-    """
-    Why 1 and 86400?
-    -> Because the user should be able to use the command *once* every *86400* seconds
-    
-    Why BucketType.user?
-    -> Because the cool down only affects the current user, if you want other types of cool downs, here are they:
-    - BucketType.default for a global basis.
-    - BucketType.user for a per-user basis.
-    - BucketType.server for a per-server basis.
-    - BucketType.channel for a per-channel basis.
-    """
 
     @commands.command(name="dailyfact")
     @commands.cooldown(1, 86400, BucketType.user)
