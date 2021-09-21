@@ -1,8 +1,8 @@
 {
   "bot_prefix": "+",
-  "token": "",
-  "application_id": "851741312164298752",
+  "token": "TOKEN",
+  "application_id": "ID",
   "owners": [
-  701805250524217394
+  your id
   ]
 }
