@@ -47,7 +47,7 @@ if __name__ == "__main__":
         if file.endswith(".py"):
             extension = file[:-3]
             try:
-                bot.load_extension(f"cogs.{extension}")
+                bot.load_extension(f"extension.{extension}")
                 print(f"Extension chargée '{extension}'")
             except Exception as e:
                 exception = f"{type(e).__name__}: {e}"
