@@ -14,8 +14,26 @@ Il faut lire pour ne pas se rater.
 
 ### Installation
 
-_Etape 1 (la seule etape)_:
-Executez la commande ``pip install discord`` pour avoir le module Discord.py et utiliser le projet.
+_Etape 1_:
+Executez la commande:
+ ```pip install discord```
+ pour avoir le module Discord.py et utiliser le projet.
+
+_Etape 2_:
+Executer:
+ ```git clone https://github.com/Zerbaib/BotDiscordPython.git```
+ pour avoir les fichier du bot
+
+
+_Etape 3_:
+Executer:
+ ```cd BotDiscordPython```
+ pour allez dans le dossier du bot
+
+_Etape 4_:
+Executer:
+ ```python bot.py```
+ pour executer le bot
 
 ## Démarrage
 
