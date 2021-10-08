@@ -62,4 +62,4 @@ _The software :_
 
 ## Authors
 
-* **Zerbaib** _alias_ [@ZerbaibDev](https://github.com/Zerbaib)
+* **Zerbaib** _a.k.a_ [@ZerbaibDev](https://github.com/Zerbaib)
