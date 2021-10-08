@@ -1,70 +1,65 @@
 # BotDiscordPython
+A Discord bot made in Python with Discord.py
+to do a little of everything.
 
-Un bot Discord fait en Python avec Discord.py
-pour faire un peut de tout.
+## To start ...
 
-## Pour commencer
+You have to read so as not to miss it.
 
-Il faut lire pour ne pas se rater.
+### Prerequisites
 
-### Pré-requis
-
-- Python 3 (j'utilise le 3.9.1)
-- avec le module Discord.py
+- Python 3 (I am using 3.9.1)
+- with the Discord.py module (I am using 1.7.3)
 
 ### Installation
 
-_Etape 1_:
-Executez la commande:
+_Step 1_:
+Execute the command:
  ```pip install discord```
- pour avoir le module Discord.py et utiliser le projet.
+ to have the Discord.py module and use the project.
 
-_Etape 2_:
-Executer:
+_Step 2_:
+Execute:
  ```git clone https://github.com/Zerbaib/BotDiscordPython.git```
- pour avoir les fichier du bot
+ to get the bot files.
 
 
-_Etape 3_:
-Executer:
+_Step 3_:
+Execute:
  ```cd BotDiscordPython```
- pour allez dans le dossier du bot
+ to go to the bot folder.
 
-_Etape 4_:
-Executer:
+_Step 4_:
+Execute:
  ```python bot.py```
- pour executer le bot
+ to run the bot.
 
-## Démarrage
+## To do
 
-Executer le fichier bot.py
+- [x] The help system
+- [x] The ping system
+- [x] The info system (bot / server)
+- [x] The invitation system (bot / server)
+- [x] The polling system
+- [x] The system to get the price of bitcoin
+- [x] The question answer system (8ball)
+- [x] The kick / ban / warn system
+- [x] The nick system
+- [x] The clear system
+- [x] The dailyfact system
+- [x] The scissor sheet stone system
+- [x] The say system (in normal / embed message)
+- [x] The bot stop system
+- [ ] The blacklist system
+- [ ] The music system
+- [ ] The reboot system
+- [ ] The system for Discord updates (as soon as there is an update it sends an announcement)
 
-## A faire
+## Made with
 
-- [x] Le systeme de help
-- [x] Le systeme de ping
-- [x] Le systeme d'info (bot/serveur)
-- [x] Le systeme d'invitation (bot/serveur)
-- [x] Le systeme de sondage
-- [x] Le systeme pour avoir le prix du bitcoin
-- [x] Le systeme de question reponse (8ball)
-- [x] Le systeme de kick/ban/warn
-- [x] Le systeme de nick
-- [x] Le systeme de clear
-- [x] Le systeme de dailyfact
-- [x] Le systeme de pierre feuille ciseaux
-- [x] Le systeme de say (en message normal/embed)
-- [x] Le systeme d'arret du bot
-- [ ] Le systeme de blacklist
-- [ ] Le systeme de musique
-- [ ] Le systeme de reboot
-- [ ] Le system pour les mise a jours Discord (des qu'il y a une maj ça envois une annonce)
+_The software :_
+* [Geany](http://geany.org) - Text editor + allows me to run the project to test it.
 
-## Fabriqué avec
-
-_Le logiciel :_
-* [Geany](http://geany.org) - Editeur de texte + me permet d'executer le projet pour le tester.
-
-## Auteurs
+## Authors
 
 * **Zerbaib** _alias_ [@ZerbaibDev](https://github.com/Zerbaib)
