@@ -33,6 +33,7 @@ _Step 4_:
 Execute:
  ```python bot.py```
  to run the bot.
+ (you must modify the config for the token and the bot id)
 
 ## To do
 
