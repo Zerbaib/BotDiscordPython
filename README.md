@@ -31,7 +31,7 @@ Execute:
 
 _Step 4_:
 Execute:
- ```python bot.py```
+ ```python main.py```
  to run the bot.
  (you must modify the config for the token and the bot id)
 
@@ -51,7 +51,7 @@ Execute:
 - [x] The scissor sheet stone system
 - [x] The say system (in normal / embed message)
 - [x] The bot stop system
-- [ ] The blacklist system
+- [x] The blacklist system
 - [ ] The music system
 - [ ] The reboot system
 - [ ] The system for Discord updates (as soon as there is an update it sends an announcement)
