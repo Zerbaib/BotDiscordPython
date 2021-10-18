@@ -36,27 +36,6 @@ Execute:
  (you must modify the config for the token and the bot id)
 
 ## To do
-### v1
-- [x] The help system
-- [x] The ping system
-- [x] The info system (bot / server)
-- [x] The invitation system (bot / server)
-- [x] The polling system
-- [x] The system to get the price of bitcoin
-- [x] The question answer system (8ball)
-- [x] The kick / ban / warn system
-- [x] The nick system
-- [x] The clear system
-- [x] The dailyfact system
-- [x] The scissor sheet stone system
-- [x] The say system (in normal / embed message)
-- [x] The bot stop system
-- [x] The blacklist system
-- [ ] The music system
-- [ ] The reboot system
-- [ ] The system for Discord updates (as soon as there is an update it sends an announcement)
-
-### v2
 - [ ] The log (in discord.log and in the cmd) systeme
 - [ ] The help system
 - [ ] The ping system
