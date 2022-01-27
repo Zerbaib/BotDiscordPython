@@ -15,7 +15,7 @@ You have to read so as not to miss it.
 
 _Step 1_:
 Execute the command:
- ```pip install discord```
+ ```pip3 install discord```
  to have the Discord.py module and use the project.
 
 _Step 2_:
@@ -31,7 +31,7 @@ Execute:
 
 _Step 4_:
 Execute:
- ```python main.py```
+ ```python3 main.py```
  to run the bot.
  (you must modify the config for the token and the bot id)
 
