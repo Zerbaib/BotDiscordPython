@@ -9,7 +9,7 @@ You have to read so as not to miss it.
 ### Prerequisites
 
 - Python 3 (I am using 3.9.1)
-- with the Discord.py module (I am using 1.7.3)
+- with the Discord.py module (I am using 2.0.1)
 
 ### Installation
 
