@@ -18,4 +18,4 @@ class admin(commands.Cog, name="admin"):
     self.bot = bot
 
 def setup(bot):
-    bot.add_cog(admin(bot)):
+    bot.add_cog(admin(bot))

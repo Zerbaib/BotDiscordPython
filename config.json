@@ -1,8 +1,9 @@
 {
   "bot_prefix": "+",
-  "token": "TOKEN",
-  "application_id": "ID",
+  "token": "ODUxNzQxMzEyMTY0Mjk4NzUy.GLsqbl.g0g7qMavrKLJqqhsO1JqHGD4zgkHtcOlk9Gq-c",
+  "application_id": "851741312164298752",
   "owners": [
-  your id
+    "your",
+    "id"
   ]
 }
