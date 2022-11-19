@@ -46,9 +46,10 @@ class general(commands.Cog, name="general"):
         Obtenez le lien d'invitation du serveur discord du bot pour obtenir de l'aide.
         """
         embed = discord.Embed(
-            description=f"Rejoignez le serveur de support du bot en cliquant sur [ici](https://discord.gg/XghGYjC6HF).",
-            color=0xE8C02A
+            description="Rejoignez le serveur de support du bot en cliquant sur [ici](https://discord.gg/XghGYjC6HF).",
+            color=0xE8C02A,
         )
+
         try:
             await context.author.send(embed=embed)
             await context.send("Je vous ai envoyé un message privé !")
@@ -92,21 +93,13 @@ class general(commands.Cog, name="general"):
             value=f"{config['bot_prefix']}",
             inline=False
         )
-        embed.add_field(
-            name="Version du bot :",
-            value=f"1.5",
-            inline=True
-        )
+        embed.add_field(name="Version du bot :", value="1.5", inline=True)
         embed.add_field(
             name="Version de Python :",
             value=f"{platform.python_version()}",
             inline=True
         )
-        embed.add_field(
-            name="Version de Discord.py :",
-            value=f"1.7.3",
-            inline=True
-        )
+        embed.add_field(name="Version de Discord.py :", value="1.7.3", inline=True)
         embed.set_footer(
             text=f"Demandé par {context.message.author}"
         )
